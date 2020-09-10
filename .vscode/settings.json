@@ -1,0 +1,17 @@
+{
+    "html.format.enable": false,
+    "prettier.disableLanguages": [
+        "html"
+    ],
+    // "python.autoComplete.extraPaths": [
+    //     "D:\\Workspace\\Environments\\flaskblog\\Lib\\site-packages"
+    // ]
+    // "python.linting.pylintArgs": [
+    //     "--init-hook='import sys; sys.path.append(\"D:\\Workspace\\Environments\\flaskblog\\Lib\\site-packages\")'"
+    // ],
+    "python.pythonPath": "/mnt/d/Workspace/Environments/ocr_pipeline/bin/python",
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
